@@ -2,7 +2,7 @@
 Commonly used packages,functions,etc.
 """
 
-import numpy as py
+import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
